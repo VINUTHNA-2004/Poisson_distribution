@@ -79,7 +79,8 @@ else:
  
 
 # Output : 
-![Uploading 2.png…]()
+![2](https://github.com/VINUTHNA-2004/Poisson_distribution/assets/95067307/30d794d0-1c36-48fa-9edb-22a0cd11d950)
+
 
 
 # Results
